@@ -1,1 +1,1 @@
-This is my first commite
+Главное правило: изменил файл → git add → git commit → git push.
