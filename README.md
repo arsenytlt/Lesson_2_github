@@ -6,5 +6,5 @@
 4. Выполни команды:
 git status
 git add README.md
-git commit -m "Update README.md"
-git push origin main
+git commit -m "Update README.md" это если вносим изменения в существующий файл
+git commit -m "ADD README.md" это если создали новый файл
