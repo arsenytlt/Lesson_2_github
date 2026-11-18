@@ -8,3 +8,4 @@ git status
 git add README.md
 git commit -m "Update README.md" это если вносим изменения в существующий файл
 git commit -m "ADD README.md" это если создали новый файл
+git push
